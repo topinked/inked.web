@@ -1,0 +1,13 @@
+# ide config
+.idea
+
+# Hidden
+.ruby-version
+.DS_Store
+.overcommit.yml
+
+# Folders
+coverage/
+pkg/
+tmp/
+log/
