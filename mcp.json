@@ -1,0 +1,27 @@
+{
+  "name": "Inked",
+  "description": "360° investor memos from public web signals.",
+  "url": "https://inked.top/mcp.html",
+  "server": "https://inked.top/mcp",
+  "contact": "hello@inked.top",
+  "tools": [
+    {
+      "name": "analyze_company",
+      "description": "Write a 360° investor memo from a company URL, product text, or PDF.",
+      "input": {
+        "url": "string, optional",
+        "text": "string, optional",
+        "pdf": "file, optional"
+      }
+    },
+    {
+      "name": "get_memo",
+      "description": "Fetch a published sample memo by slug.",
+      "input": { "slug": "cursor | linear | stripe | notion" }
+    },
+    {
+      "name": "list_samples",
+      "description": "List public sample memos."
+    }
+  ]
+}

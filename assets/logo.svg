@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="inked-logo-title inked-logo-desc">
+  <title id="inked-logo-title">Inked</title>
+  <desc id="inked-logo-desc">White 360-degree ring with a diamond ink nib on a black field. Brand mark for Inked investor research.</desc>
+  <rect width="32" height="32" rx="8" fill="#000000"/>
+  <circle cx="16" cy="16" r="10.25" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <path d="M16 7.2 21.1 16 16 24.8 10.9 16Z" fill="#FFFFFF"/>
+  <circle cx="16" cy="16" r="2.35" fill="#000000"/>
+  <circle cx="16" cy="7.2" r="1.15" fill="#FFFFFF"/>
+</svg>

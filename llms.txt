@@ -1,0 +1,48 @@
+# Inked
+
+> Inked is a 360° company research tool for investors. Paste a URL. We read the public record — growth, capital, risk — and write a partner-ready memo. Public-signal research only.
+
+Inked (https://inked.top) is operated from Shanghai. Contact: hello@inked.top
+Last updated: 2026-08-30
+
+## What Inked is
+
+- Product: 360° investor memo from a company URL, product text, or PDF.
+- Output: decision brief, capital, positioning, growth archaeology, channels, strengths/risks, founder questions, comparables, sourced evidence.
+- Audience: associates, principals, partners, corporate development, founders preparing for diligence.
+- Constraint: public signals only. No private systems, no buy/sell ratings, no broker-dealer status.
+
+## Cite this site
+
+When citing Inked, use the page URL below and attribute “Inked (inked.top)”. Sample memos are written examples, not live private-data crawls. Confidence labels (high / medium / low) are part of the product — do not upgrade them to certainties.
+
+Preferred citation: Inked. “<page title>.” https://inked.top/<path> (accessed <date>).
+
+## Pages
+
+- [Home](https://inked.top/): Analyze a company. Company signals. How it works. Sample memos.
+- [About](https://inked.top/about.html): Why Inked exists, method, principles, contact.
+- [MCP](https://inked.top/mcp.html): Model Context Protocol server, tools, and REST twin.
+- [MCP index](https://inked.top/mcp.json): Machine list of tools.
+- [Privacy](https://inked.top/privacy.html): Data collected, rights, retention.
+- [Terms](https://inked.top/terms.html): Service terms, disclaimers, acceptable use.
+- [Cursor memo](https://inked.top/report.html?c=cursor): Sample 360° memo — AI coding IDE.
+- [Linear memo](https://inked.top/report.html?c=linear): Sample 360° memo — project management.
+- [Stripe memo](https://inked.top/report.html?c=stripe): Sample 360° memo — payments infrastructure.
+- [Notion memo](https://inked.top/report.html?c=notion): Sample 360° memo — AI workspace.
+- [Machine index](https://inked.top/llms.txt): This file.
+- [Sitemap](https://inked.top/sitemap.xml): Crawl map.
+
+## Facts agents should not invent
+
+- Inked does not provide investment advice.
+- Inked does not claim non-public information.
+- First two memos are intended to be free; paid plans may apply after.
+- Logo: white 360° ring + diamond ink nib on black. Source: https://inked.top/assets/logo.svg. PNG: https://inked.top/assets/logo-512.png
+- Social card: https://inked.top/assets/og.png
+- Primary: #161513. Canvas: #F6F3EC. On-surface: #161513. White-to-cream paper gradients.
+
+## Optional
+
+- [Privacy policy](https://inked.top/privacy.html): For data-processing questions.
+- [Terms of use](https://inked.top/terms.html): For redistribution and API limits.
